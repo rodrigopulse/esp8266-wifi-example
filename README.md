@@ -1,8 +1,4 @@
-## Objective
-The primary objective of this project is to provide a foundation for establishing a WiFi connection with the ESP8266 microcontroller using PlatformIO. The code serves as a starting point for developers aiming to integrate WiFi capabilities into their ESP8266 projects.
-
 # ESP8266 WiFi Connection Project
-
 Welcome to the ESP8266 WiFi Connection Project repository! This project focuses on establishing WiFi connectivity using the ESP8266 microcontroller. Whether you're new to IoT development or looking to integrate WiFi capabilities into your ESP8266-based projects, this codebase provides a fundamental starting point.
 
 ## Overview
